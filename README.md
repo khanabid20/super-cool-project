@@ -1,4 +1,4 @@
-![](https://github.com/khanabid20/super-cool-project/workflows/Pipeline/badge.svg)
+![](https://github.com/khanabid20/super-cool-project/workflows/keyword-releaser/badge.svg)
 
 # super-cool-project
 
